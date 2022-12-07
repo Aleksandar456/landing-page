@@ -134,3 +134,31 @@ body {
     margin-top: 80px;
     padding-bottom: 10px;
 }
+.sign-up-item {
+    display: flex;
+    width: 1000px;
+    background-color: #3882F6;
+    justify-content: center;
+    align-content: center;
+    margin: 80px auto;
+    gap: 80px;
+    color: #F9FAF8;
+    border-radius: 15px;
+    padding: 20px 0px;
+}
+.sign-up-item button {
+    align-self: center;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    background-color: #3882F6;
+    font-weight: bold;
+    padding: 8px 32px;
+    color: #F9FAF8;
+}
+.sign-up-text h3 {
+    margin-bottom: 5px;
+}
+.sign-up-text p {
+    margin-top: 0;
+    font-size: 18px;
+}
